@@ -1,0 +1,15 @@
+<svg width="25" height="25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path d="M12.926 25h8.642v-4.035H14.3L12.926 25zm9.213 0h1.928v-4.035H22.14V25zm-7.347-6.177h6.776v-4.036h-5.419l-1.357 4.036zm7.347 0h1.928v-4.036H22.14v4.036zm-5.463-6.035h4.892V8.753h-3.589l-1.303 4.035zm5.463 0h1.928V8.753H22.14v4.035zM18.711.004L10.712 25H8L0 .004h4.928l4.428 15.569L13.783.004h4.928z" id="a"/>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="b">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-color="#1D1D1B" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="c" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M12.926 25h8.642v-4.035H14.3L12.926 25zm9.213 0h1.928v-4.035H22.14V25zm-7.347-6.177h6.776v-4.036h-5.419l-1.357 4.036zm7.347 0h1.928v-4.036H22.14v4.036zm-5.463-6.035h4.892V8.753h-3.589l-1.303 4.035zm5.463 0h1.928V8.753H22.14v4.035zM18.711.004L10.712 25H8L0 .004h4.928l4.428 15.569L13.783.004h4.928z" fill="url(#b)" mask="url(#c)"/>
+  </g>
+</svg>

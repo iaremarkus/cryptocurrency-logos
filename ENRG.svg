@@ -1,0 +1,22 @@
+<svg width="25" height="25" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="40.012%" cy="21.336%" fx="40.012%" fy="21.336%" r="106.695%" id="a">
+      <stop stop-color="#F2EC05" offset="0%"/>
+      <stop stop-color="#EDEB07" offset="6%"/>
+      <stop stop-color="#DFE70C" offset="13%"/>
+      <stop stop-color="#C8E114" offset="20%"/>
+      <stop stop-color="#A8D820" offset="28%"/>
+      <stop stop-color="#7ECD2F" offset="35%"/>
+      <stop stop-color="#4CBF41" offset="43%"/>
+      <stop stop-color="#2FB74B" offset="47%"/>
+      <stop stop-color="#33B765" offset="55%"/>
+      <stop stop-color="#37B77A" offset="62%"/>
+      <stop stop-color="#38B782" offset="67%"/>
+      <stop stop-color="#0AAEA4" offset="84%"/>
+    </radialGradient>
+  </defs>
+  <g fill-rule="nonzero" fill="none">
+    <circle fill="url(#a)" cx="12.5" cy="12.5" r="12.5"/>
+    <path d="M10.574 15.113l7.05-7.061s-3.22-3.908-8.277-1.723c0 0-4.358 1.847-3.867 6.73.178 1.766.919 3.43 2.23 4.625 1.196 1.089 3.048 2.075 5.702 1.73 0 0 1.937-.225 3.401-1.666l1.644 1.621s-4.268 4.46-10.72 1.115c0 0-3.492-1.745-4.482-6.52 0 0-1.014-6.239 4.662-9.437 0 0 6.036-3.536 10.923 1.509l.833-.72S15.541.72 9.268 2.815c0 0-5.63 1.711-6.78 7.049 0 0-1.643 6.137 2.726 10.011 0 0 4.628 4.707 11.002 2.117 0 0 1.78-.518 3.705-2.601l-3.085-3.108s-2.061 3.03-6.036 1.892c0 0-5.203-1.126-4.156-7.095 0 0 .788-4.02 5.473-4.426 0 0 2.23-.169 3.953 1.352L9.83 14.336l.743.777z" fill="#FFF"/>
+  </g>
+</svg>
